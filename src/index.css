@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Poppins";
+}
+
+.bg {
+  background-image: url("./assets/images/bg-cover.jpg");
+  background-size: cover;
+  height: 50vh;
+}
+
+.scroll-hide::-webkit-scrollbar{
+  display: none;
+}
