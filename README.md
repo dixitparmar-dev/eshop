@@ -1,1 +1,1 @@
-![Interface](/src/assets/image/eshop-interface.png)
+![Interface](./src/assets/images/eshop-interface.png)
