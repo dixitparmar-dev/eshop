@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Apple MacBook Air Laptop",
+    "image": "/src/assets/images/Apple MacBook Air Laptop.webp",
+    "description": "Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+    "category": "Laptop",
+    "price": 59990
+  },
+  {
+    "id": 2,
+    "title": "Apple 2025 MacBook Air",
+    "image": "/src/assets/images/Apple 2025 MacBook Air.webp",
+    "description": "Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Midnight",
+    "category": "Laptop",
+    "price": 90900
+  },
+  {
+    "id": 3,
+    "title": "ZOTAC Gaming GeForce RTX 5060",
+    "image": "/src/assets/images/ZOTAC Gaming GeForce RTX 5060.webp",
+    "description": "ZOTAC Gaming GeForce RTX 5060 Ti Twin Edge OC Graphics Card - Black | 16 GB | DLSS 4 | GDDR7 | 128 bit | IceStorm 2.0 Advanced Cooling | Dual Fan | SFF Ready | ZT-B50620H-10M",
+    "category": "Graphic cards",
+    "price": 49739
+  },
+  {
+    "id": 4,
+    "title": "Artis",
+    "image": "/src/assets/images/Artis 500 Watt Super Silent Gaming PC.jpg",
+    "description": "Artis 500 Watt Super Silent Gaming PC SMPS/Power Supply Unit",
+    "category": "Power Supply",
+    "price": 19999
+  },
+  {
+    "id": 5,
+    "title": "Foxin 24 Inch FHD Flat LED Monitor",
+    "image": "/src/assets/images/Foxin 24 Inch FHD Flat LED Monitor.jpg",
+    "description": "Foxin 24 Inch FHD Flat LED Monitor 1920x1080p Elite Series | IPS Panel, HDMI & VGA Port, 100Hz, 1ms, sRGB, Anti-Glare Flicker-Free, Frameless, Slim, Wall Mountable, 16.7 M Colors, 3 Yrs Warranty",
+    "category": "Monitors",
+    "price": 6989
+  }
+]
